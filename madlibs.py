@@ -1,0 +1,22 @@
+print("Fill in the following blank spaces in the paragraph")
+
+print("In a cozy, ___(1)___ village, folks enjoyed coming together to ___(2)___ with their favorite ___(3)___. Every ___(4)___, they gathered in the lovely ___(5)___ and had a wonderfully ___(6)___ time. There was always a sense of ___(7)___ in the air as they ___(8)___ and ___(9)___ together, creating lasting memories with ___(10)___. the ___(11)___ itself seemed to join in the festivities, casting a warm and ___(12)___ glow on the cheerful faces of the __(13)___ that adorned the ___(14)___. It was a time filled with ___(15)___ joy, laughter and ___(16)___")
+
+adj1 = input("1. Adjective: ")
+verb1 = input("2. Verb: ")
+noun1 = input("3. Plural noun: ")
+noun2 = input("4. Day of the week: ")
+noun3 = input("5. Noun: ")
+adj2 = input("6. Adjective: ")
+adj3 = input("7. Emotion: ")
+verb2 = input("8. Verb: ")
+verb3 = input("9. Verb: ")
+noun4 = input("10. plural noun: ")
+noun5 = input("11. place: ")
+adj4 = input("12. Adjective: ")
+noun6 = input("13. Plural noun: ")
+noun7 = input("14. Noun: ")
+adj5 = input("15. Adjective: ")
+noun8 = input("16. Noun: ")
+
+print(f"In a cozy, {adj1} village, folks enjoyed coming together to {verb1} with their favorite {noun1}. Every {noun2}, they gathered in the lovely {noun3} and had a wonderfully {adj2} time. There was always a sense of {adj3} in the air as they {verb2} and {verb3} together, creating lasting memories with {noun4}. the {noun5} itself seemed to join in the festivities, casting a warm and {adj4} glow on the cheerful faces of the {noun6} that adorned the {noun7}. It was a time filled with {adj5} joy, laughter and {noun8}")
